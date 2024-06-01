@@ -8,9 +8,9 @@ We will be your contact point for any guidance/resources that you might need rel
 ---
 If you have any questions or need assistance, feel free to reach out to any of us. We're here to support you every step of the way!
 
-- Dhyey Mavani (Head of Engineering)
-- Prakhar Agrawal
-- Maximo Gonzalez
+- Dhyey Mavani, _Founding Head of Engineering Team_
+- Prakhar Agrawal, _Founding Engineering Team Member_
+- Maximo Gonzalez, _Founding Engineering Team Member_
 
 ### Key Points to Focus On
 ---
