@@ -1,6 +1,6 @@
 # .github
 
-Hello Everyone! This is your friendly development/engineering team 😇
+Hello Everyone! This is your friendly development/engineering team of i2i (Ideas 2 Innovation) initiative @ Amherst College 😇
 
 We will be your contact point for any guidance/resources that you might need related to engineering your service / API / Mobile-Application / Web-Application / Website etc.
 
