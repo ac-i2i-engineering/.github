@@ -1,8 +1,8 @@
 ## Hello World 👋
 
-This is your friendly development/engineering team of i2i (Ideas 2 Innovation) initiative @ Amherst College 😇
+This is the development/engineering team page for i2i (Ideas 2 Innovation) initiative @ Amherst College 😇
 
-We will be your contact point for any guidance/resources that you might need related to engineering your service / API / Mobile-Application / Web-Application / Website etc.
+We will be your one-stop-shop for any guidance/resources that you might need related to engineering your service / API / Mobile-Application / Web-Application / Website etc.
 
 ### Members
 ---
@@ -10,9 +10,9 @@ If you have any questions or need assistance, feel free to reach out to any of u
 
 #### Founding Team:
 - Dhyey Mavani, _Head of Engineering_
+- Liam Davis, _Member of Technical Staff_
 - Prakhar Agrawal, _Member of Technical Staff_
 - Maximo Gonzalez, _Member of Technical Staff_
-- Liam Davis, _Member of Technical Staff_
 
 ### Key Points to Focus On
 ---
