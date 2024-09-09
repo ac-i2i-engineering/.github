@@ -4,15 +4,18 @@ This is the development/engineering team page for i2i (Ideas 2 Innovation) initi
 
 We will be your one-stop-shop for any guidance/resources that you might need related to engineering your service / API / Mobile-Application / Web-Application / Website etc.
 
-### Members
+### Organization
 ---
 If you have any questions or need assistance, feel free to reach out to any of us. We're here to support you every step of the way!
 
 #### Founding Team:
-- Dhyey Mavani, _Head of Engineering_
+- Dhyey Mavani, _Head of Engineering & CTO_
 - Liam Davis, _Member of Technical Staff_
 - Prakhar Agrawal, _Member of Technical Staff_
 - Maximo Gonzalez, _Member of Technical Staff_
+
+#### Our Eng-Team Members:
+- Ryan Ji, _Member of Technical Staff_
 
 ### Key Points to Focus On
 ---
