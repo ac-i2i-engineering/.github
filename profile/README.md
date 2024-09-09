@@ -17,7 +17,7 @@ If you have any questions or need assistance, feel free to reach out to any of u
 #### Our Eng-Team Members:
 - Ryan Ji, _Member of Technical Staff_
 
-### Key Points to Focus On
+### True North(s):
 ---
 1. **Establishing Organisational Presence on GitHub**:
     - **Action**: Create repositories with reproducible templates to support new ideas efficiently.
