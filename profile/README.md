@@ -17,6 +17,7 @@ If you have any questions or need assistance, feel free to reach out to any of u
 #### Our Eng-Team Members:
 - Ryan Ji, _Member of Technical Staff_
 - Aiden Taghinia, _Member of Technical Staff_
+- Shreya Hegde, _Member of Technical Staff_
 
 ### True North(s):
 ---
