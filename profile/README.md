@@ -10,7 +10,7 @@ If you have any questions or need assistance, feel free to reach out to any of u
 
 #### Founding Team:
 - Dhyey Mavani, _Head of Engineering & CTO_
-- Liam Davis, _Member of Technical Staff_
+- Liam Davis, _Sr. Member of Technical Staff_
 - Prakhar Agrawal, _Member of Technical Staff_
 - Maximo Gonzalez, _Member of Technical Staff_
 
