@@ -10,15 +10,17 @@ If you have any questions or need assistance, feel free to reach out to any of u
 
 #### Founding Team:
 - Dhyey Mavani, _Head of Engineering & CTO_
-- Liam Davis, _Sr. Member of Technical Staff_
-- Prakhar Agrawal, _Member of Technical Staff_
-- Maximo Gonzalez, _Member of Technical Staff_
+- Liam Davis, _Sr. Founding Member of Technical Staff_
+- Prakhar Agrawal, _Founding Member of Technical Staff_
 
 #### Our Eng-Team Members:
 - Ryan Ji, _Member of Technical Staff_
 - Aiden Taghinia, _Member of Technical Staff_
 - Shreya Hegde, _Member of Technical Staff_
 - Sherlyn Saavendra, _Member of Technical Staff_
+
+#### Former Eng-Team Members:
+- Maximo Gonzalez, _Ex-Founding Member of Technical Staff_
 
 ### True North(s):
 ---
