@@ -18,6 +18,7 @@ If you have any questions or need assistance, feel free to reach out to any of u
 - Aiden Taghinia, _Member of Technical Staff_
 - Shreya Hegde, _Member of Technical Staff_
 - Sherlyn Saavendra, _Member of Technical Staff_
+- Sandesh Ghimire, _Member of Technical Staff_
 
 #### Former Eng-Team Members:
 - Maximo Gonzalez, _Ex-Founding Member of Technical Staff_
