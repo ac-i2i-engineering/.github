@@ -23,7 +23,7 @@ If you have any questions or need assistance, feel free to reach out to any of u
 - Thu Hoang, _Technical Product Manager_
 
 #### Former Eng-Team Members:
-- Maximo Gonzalez, _Ex-Founding Member of Technical Staff_
+- Maximo Gonzalez, _Ex-Founding Member of Technical Staff_ (June 2024 - October 2024)
 
 ### True North(s):
 ---
