@@ -42,4 +42,4 @@ If you have any questions or need assistance, feel free to reach out to any of u
     - **Goal**: Facilitate smooth and efficient development and deployment processes.
   
 ### Special Thanks to:
-- James Guo (for initiating our team members on Django framework)
+- James Guo, Quantitative Trader at DRW (for initiating our team members on Django framework)
