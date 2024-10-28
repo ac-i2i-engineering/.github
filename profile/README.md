@@ -14,13 +14,13 @@ If you have any questions or need assistance, feel free to reach out to any of u
 - Ryan Ji, _Senior Member of Technical Staff_
 
 #### Our Eng-Team Members:
+- Jordy Perry-Greene, _Senior Member of Technical Staff_
 - Prakhar Agrawal, _Founding Member of Technical Staff_
 - Aiden Taghinia, _Member of Technical Staff_
 - Shreya Hegde, _Member of Technical Staff_
 - Sherlyn Saavendra, _Member of Technical Staff_
 - Rocky Klopfenstein, _Member of Technical Staff_
 - Brendan Shen, _Member of Technical Staff_
-- Jordy Perry-Greene, _Member of Technical Staff_
 - Thu Hoang, _Technical Product Manager_
 
 #### Former Eng-Team Members:
