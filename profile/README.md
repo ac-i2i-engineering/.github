@@ -8,18 +8,19 @@ We will be your one-stop-shop for any guidance/resources that you might need rel
 ---
 If you have any questions or need assistance, feel free to reach out to any of us. We're here to support you every step of the way!
 
-#### Founding Team:
+#### Executive Team:
 - Dhyey Mavani, _Head of Engineering & CTO_
-- Liam Davis, _Sr. Founding Member of Technical Staff_
-- Prakhar Agrawal, _Founding Member of Technical Staff_
+- Liam Davis, _Founding Senior Member of Technical Staff_
+- Ryan Ji, _Senior Member of Technical Staff_
 
 #### Our Eng-Team Members:
-- Ryan Ji, _Member of Technical Staff_
+- Prakhar Agrawal, _Founding Member of Technical Staff_
 - Aiden Taghinia, _Member of Technical Staff_
 - Shreya Hegde, _Member of Technical Staff_
 - Sherlyn Saavendra, _Member of Technical Staff_
 - Rocky Klopfenstein, _Member of Technical Staff_
 - Brendan Shen, _Member of Technical Staff_
+- Jordy Perry-Greene, _Member of Technical Staff_
 - Thu Hoang, _Technical Product Manager_
 
 #### Former Eng-Team Members:
@@ -39,3 +40,6 @@ If you have any questions or need assistance, feel free to reach out to any of u
 4. **Idea-wise Engineering and Deployment Support**:
     - **Action**: Provide tailored support for ideas from inception to deployment (0 → 1).
     - **Goal**: Facilitate smooth and efficient development and deployment processes.
+  
+### Special Thanks to:
+- James Guo (for initiating our team members on Django framework)
