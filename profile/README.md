@@ -22,6 +22,7 @@ If you have any questions or need assistance, feel free to reach out to any of u
 - Sherlyn Saavendra, _Member of Technical Staff_
 - Rocky Klopfenstein, _Member of Technical Staff_
 - Brendan Shen, _Member of Technical Staff_
+- Megan Li, _Member of Technical Staff_
 
 #### Former Eng-Team Members:
 - Maximo Gonzalez, _Ex-Founding Member of Technical Staff_ (June 2024 - October 2024)
