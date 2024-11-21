@@ -14,7 +14,6 @@ If you have any questions or need assistance, feel free to reach out to any of u
 - Ryan Ji, _Senior Member of Technical Staff_
 
 #### Our Eng-Team Members:
-- Jordy Perry-Greene, _Senior Member of Technical Staff_
 - Claudiu Babin, _Senior Member of Technical Staff_
 - Thu Hoang, _Technical Product Manager_
 - Prakhar Agrawal, _Founding Member of Technical Staff_
