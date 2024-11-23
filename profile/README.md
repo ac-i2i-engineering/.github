@@ -13,11 +13,10 @@ If you have any questions or need assistance, feel free to reach out to any of u
 - Liam Davis, _Founding Senior Member of Technical Staff_
 - Ryan Ji, _Senior Member of Technical Staff_
 
-#### Our Eng-Team Members:
+#### Our Eng-Org Members:
+
+##### Core-Eng Team
 - Claudiu Babin, _Senior Member of Technical Staff_
-- Thu Hoang, _Technical Product Manager_
-- Tetsuya Tanaka, _Technical Product Manager_
-- Emile Ndayishimiye, _Technical Product Manager_
 - Prakhar Agrawal, _Founding Member of Technical Staff_
 - Aiden Taghinia, _Member of Technical Staff_
 - Shreya Hegde, _Member of Technical Staff_
@@ -25,7 +24,12 @@ If you have any questions or need assistance, feel free to reach out to any of u
 - Rocky Klopfenstein, _Member of Technical Staff_
 - Brendan Shen, _Member of Technical Staff_
 - Megan Li, _Member of Technical Staff_
-- Yichen Liu, _Member of Technical Staff_ 
+- Yichen Liu, _Member of Technical Staff_
+
+##### Design & Product Team
+- Thu Hoang, _Technical Product Manager_
+- Tetsuya Tanaka, _Technical Product Manager_
+- Emile Ndayishimiye, _Technical Product Manager_
 
 #### Former Eng-Team Members:
 - Maximo Gonzalez, _Ex-Founding Member of Technical Staff_ (June 2024 - October 2024)
