@@ -16,6 +16,8 @@ If you have any questions or need assistance, feel free to reach out to any of u
 #### Our Eng-Team Members:
 - Claudiu Babin, _Senior Member of Technical Staff_
 - Thu Hoang, _Technical Product Manager_
+- Tetsuya Tanaka, _Technical Product Manager_
+- Emile Ndayishimiye, _Technical Product Manager_
 - Prakhar Agrawal, _Founding Member of Technical Staff_
 - Aiden Taghinia, _Member of Technical Staff_
 - Shreya Hegde, _Member of Technical Staff_
@@ -23,6 +25,7 @@ If you have any questions or need assistance, feel free to reach out to any of u
 - Rocky Klopfenstein, _Member of Technical Staff_
 - Brendan Shen, _Member of Technical Staff_
 - Megan Li, _Member of Technical Staff_
+- Yichen Liu, _Member of Technical Staff_ 
 
 #### Former Eng-Team Members:
 - Maximo Gonzalez, _Ex-Founding Member of Technical Staff_ (June 2024 - October 2024)
