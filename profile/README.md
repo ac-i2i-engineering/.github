@@ -34,6 +34,7 @@ If you have any questions or need assistance, feel free to reach out to any of u
 - Vanshika Gupta, _Technical Product Manager_
 - Yilin Huang, _Technical Product Manager_
 - Emile Ndayishimiye, _Technical Product Manager_
+- Michael Ubarri-Sosa, _Technical Product Manager_
 
 #### Former Eng-Team Members:
 - Maximo Gonzalez, _Ex-Founding Member of Technical Staff_ (June 2024 - October 2024)
