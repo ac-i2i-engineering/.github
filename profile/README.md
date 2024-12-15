@@ -9,7 +9,7 @@ We will be your one-stop-shop for any guidance/resources that you might need rel
 If you have any questions or need assistance, feel free to reach out to any of us. We're here to support you every step of the way!
 
 #### Executive Team:
-- Dhyey Mavani, _Head of Engineering & CTO_
+- Dhyey Mavani, _Founding Head of Engineering & CTO_
 - Liam Davis, _Founding Senior Member of Technical Staff_
 - Ryan Ji, _Senior Member of Technical Staff_
 
@@ -25,10 +25,14 @@ If you have any questions or need assistance, feel free to reach out to any of u
 - Brendan Shen, _Member of Technical Staff_
 - Megan Li, _Member of Technical Staff_
 - Yichen Liu, _Member of Technical Staff_
+- Surya Rao, _Member of Technical Staff_
 
 ##### Design & Product Team
 - Thu Hoang, _Technical Product Manager_
 - Tetsuya Tanaka, _Technical Product Manager_
+- Weixin Lin, _Technical Product Manager_
+- Vanshika Gupta, _Technical Product Manager_
+- Yilin Huang, _Technical Product Manager_
 - Emile Ndayishimiye, _Technical Product Manager_
 
 #### Former Eng-Team Members:
@@ -50,4 +54,4 @@ If you have any questions or need assistance, feel free to reach out to any of u
     - **Goal**: Facilitate smooth and efficient development and deployment processes.
   
 ### Special Thanks to:
-- James Guo, Quantitative Trader at DRW (for initiating our team members on Django framework)
+- James Guo, Quantitative Trader at DRW (for initiating Liam Davis on Django framework)
