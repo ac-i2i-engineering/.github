@@ -16,7 +16,6 @@ If you have any questions or need assistance, feel free to reach out to any of u
 #### Our Eng-Org Members:
 
 ##### Core-Eng Team
-- Sriyash Singhania, _Senior Member of Technical Staff_
 - Prakhar Agrawal, _Founding Member of Technical Staff_
 - Aiden Taghinia, _Member of Technical Staff_
 - Shreya Hegde, _Member of Technical Staff_
@@ -27,6 +26,7 @@ If you have any questions or need assistance, feel free to reach out to any of u
 - Megan Li, _Member of Technical Staff_
 - Yichen Liu, _Member of Technical Staff_
 - Surya Rao, _Member of Technical Staff_
+- Sriyash Singhania, _Member of Technical Staff_
 
 ##### Design & Product Team
 - Thu Hoang, _Technical Product Manager_
