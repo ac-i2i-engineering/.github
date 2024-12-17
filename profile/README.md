@@ -16,10 +16,11 @@ If you have any questions or need assistance, feel free to reach out to any of u
 #### Our Eng-Org Members:
 
 ##### Core-Eng Team
-- Claudiu Babin, _Senior Member of Technical Staff_
+- Sriyash Singhania, _Senior Member of Technical Staff_
 - Prakhar Agrawal, _Founding Member of Technical Staff_
 - Aiden Taghinia, _Member of Technical Staff_
 - Shreya Hegde, _Member of Technical Staff_
+- Claudiu Babin, _Member of Technical Staff_
 - Sherlyn Saavendra, _Member of Technical Staff_
 - Rocky Klopfenstein, _Member of Technical Staff_
 - Brendan Shen, _Member of Technical Staff_
