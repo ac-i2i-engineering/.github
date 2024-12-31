@@ -9,7 +9,7 @@ We will be your one-stop-shop for any guidance/resources that you might need rel
 If you have any questions or need assistance, feel free to reach out to any of us. We're here to support you every step of the way!
 
 #### Executive Team:
-- Dhyey Mavani, _Founding Head of Engineering & CTO_
+- Dhyey Mavani, _Founding Director of Engineering (Executive)_
 - Liam Davis, _Founding Senior Member of Technical Staff_
 - Ryan Ji, _Senior Member of Technical Staff_
 
