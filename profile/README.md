@@ -27,6 +27,7 @@ If you have any questions or need assistance, feel free to reach out to any of u
 - Yichen Liu, _Member of Technical Staff_
 - Surya Rao, _Member of Technical Staff_
 - Sriyash Singhania, _Member of Technical Staff_
+- Ema Yamaguchi, _Member of Technical Staff_
 
 ##### Design & Product Team
 - Thu Hoang, _Technical Product Manager_
