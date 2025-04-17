@@ -8,10 +8,12 @@ We will be your one-stop-shop for any guidance/resources that you might need rel
 ---
 If you have any questions or need assistance, feel free to reach out to any of us. We're here to support you every step of the way!
 
-#### Executive Team:
-- Dhyey Mavani, _Founding Director of Engineering (Executive)_
-- Liam Davis, _Founding Senior Member of Technical Staff_
-- Ryan Ji, _Senior Member of Technical Staff_
+#### Founder of Amherst College i2i Engineering
+- Dhyey Mavani, _Ex-Founding Director of Engineering (Starting May 2025: Alumni Advisor)_
+
+#### Current Executive Team:
+- Liam Davis, _Co-Director of Engineering_
+- Ryan Ji, _Co-Director of Engineering_
 
 #### Our Eng-Org Members:
 
