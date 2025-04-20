@@ -12,9 +12,11 @@ If you have any questions or need assistance, feel free to reach out to any of u
 - Dhyey Mavani, _Ex-Founding Director of Engineering (Starting May 2025: Alumni Advisor)_
 
 #### Current Executive Team:
+Directors of Engineering
 - Liam Davis, _Co-Director of Engineering_
 - Ryan Ji, _Co-Director of Engineering_
 
+Senior Member of Technical Staff
 - Megan Li, _Senior Member of Technical Staff_
 - Thu Hoang, _Senior Member of Technical Staff_
 - Yichen Liu, _Senior Member of Technical Staff_
