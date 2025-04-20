@@ -15,6 +15,11 @@ If you have any questions or need assistance, feel free to reach out to any of u
 - Liam Davis, _Co-Director of Engineering_
 - Ryan Ji, _Co-Director of Engineering_
 
+- Megan Li, _Senior Member of Technical Staff_
+- Thu Hoang, _Senior Member of Technical Staff_
+- Yichen Liu, _Senior Member of Technical Staff_
+- Emile Ndayishimiye, _Senior Member of Technical Staff_
+
 #### Our Eng-Org Members:
 
 ##### Core-Eng Team
@@ -25,20 +30,16 @@ If you have any questions or need assistance, feel free to reach out to any of u
 - Sherlyn Saavendra, _Member of Technical Staff_
 - Rocky Klopfenstein, _Member of Technical Staff_
 - Brendan Shen, _Member of Technical Staff_
-- Megan Li, _Member of Technical Staff_
-- Yichen Liu, _Member of Technical Staff_
 - Surya Rao, _Member of Technical Staff_
 - Sriyash Singhania, _Member of Technical Staff_
 - Ema Yamaguchi, _Member of Technical Staff_
 
 ##### Design & Product Team
-- Thu Hoang, _Technical Product Manager_
 - Tetsuya Tanaka, _Technical Product Manager_
 - Weixin Lin, _Technical Product Manager_
 - Vanshika Gupta, _Technical Product Manager_
 - Jiyuan Ji, _Technical Product Manager_
 - Yilin Huang, _Technical Product Manager_
-- Emile Ndayishimiye, _Technical Product Manager_
 - Michael Ubarri-Sosa, _Technical Product Manager_
 - Alessandro Beltramo, _Technical Product Manager_
 
