@@ -36,6 +36,7 @@ If you have any questions or need assistance, feel free to reach out to any of u
 - Tetsuya Tanaka, _Technical Product Manager_
 - Weixin Lin, _Technical Product Manager_
 - Vanshika Gupta, _Technical Product Manager_
+- Jiyuan Ji, _Technical Product Manager_
 - Yilin Huang, _Technical Product Manager_
 - Emile Ndayishimiye, _Technical Product Manager_
 - Michael Ubarri-Sosa, _Technical Product Manager_
